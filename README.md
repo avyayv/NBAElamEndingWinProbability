@@ -18,3 +18,10 @@ optional arguments:
   -h, --help  show this help message and exit
   
 ```
+
+It will return results like so
+
+```
+Probability of team with possession winning is ....
+Probability of team without possession winning is ....
+```
